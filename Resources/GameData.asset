@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 954d9c38fa9d2a6419198146a05efbc3, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  CurrentGameVersion: fdgsgfgdgs
+  PrefabCanvasMain: {fileID: 8532287962302132598, guid: a6f45f99a71b8fe498051f56dcbf9dab, type: 3}
+  PrefabTXTGameVersion: {fileID: 6807997847436871308, guid: 49ceada6f26c6af49b671f236b863ed7, type: 3}
+  PrefabTXTBonus: {fileID: 1187469305327756896, guid: bb7137e00f7f39d45a1c0353701ead8d, type: 3}
+  PrefabCanvasResetButton: {fileID: 8525276958237793845, guid: 699785eb91769084fb4e83ba404a8309, type: 3}
+  PrefabRestartButton: {fileID: 2888738684598695099, guid: 837dea9c160806345a2dd7cc5d6ac31a, type: 3}
